@@ -1,3 +1,7 @@
+---
+title: Terms of Service — Tether
+---
+
 # Tether Terms of Service
 
 **Last updated: May 18, 2026**
@@ -92,4 +96,4 @@ We may update these Terms from time to time. We will notify you of significant c
 
 ## 12. Contact
 
-Questions? Email us at bryant.b.allred@gmail.com.
+Questions? Email us at [bryant.b.allred@gmail.com](mailto:bryant.b.allred@gmail.com).

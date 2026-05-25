@@ -1,3 +1,7 @@
+---
+title: Privacy Policy — Tether
+---
+
 # Tether Privacy Policy
 
 **Last updated: May 18, 2026**
@@ -57,4 +61,4 @@ We may update this policy from time to time. We will notify you of significant c
 
 ## Contact
 
-Questions? Email the developer at bryant.b.allred@gmail.com.
+Questions? Email the developer at [bryant.b.allred@gmail.com](mailto:bryant.b.allred@gmail.com).
